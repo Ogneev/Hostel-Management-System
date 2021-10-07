@@ -1,0 +1,10 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint-flask"
+    ],
+    "python.pythonPath": "C:\\Users\\ognee\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "sqltools.connections": [],
+    "sqltools.useNodeRuntime": true,
+    "python.formatting.provider": "black"
+}
